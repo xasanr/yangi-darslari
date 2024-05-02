@@ -1,0 +1,116 @@
+body,h1, h2,h3,p,ul{ 
+    margin:0 ;
+}
+
+
+ #DDD{ 
+    background-color: coral;
+
+ }
+
+ .XXX{
+    width: 50%;
+    margin: 0 auto;
+ }
+
+
+     #DDD{
+color: #ffff;
+font-family: sans-serif;
+padding: 10px 19px; 
+     }
+
+
+ #AAA{
+    background-color: black;
+
+ }
+
+     #AAA ul li{
+        list-style-type: none;
+        display: inline;
+     }
+
+
+      #AAA ul li a{
+        text-decoration: none;
+        color: #ffff;
+        padding: 5px 15px;
+        display: inline block;
+      }
+
+
+       #PPP{
+         background-image: url(photo_2024-05-01_10-28-07.jpg);
+         background-position: center right;
+         min-height: 200px;
+
+       }
+
+        #PPP,li{
+
+
+color: #ffff;
+font-size: 20px;
+font-family: sans-serif;
+padding-top: 50px;
+text-align: center;
+        }
+      
+        .RRR p{
+          
+         padding:  60px;
+      
+        }
+    .IIII{
+color: rgb(155, 9, 9);
+ text-align: center;
+    }
+
+
+ #LLL{
+      color: rgb(6, 7, 6);
+      margin-top: 30px;
+     }
+        
+       
+ 
+
+.WWW{
+   float: left;
+
+}
+
+ 
+.RRR{
+   float: left;
+   width: 20%; background-color: black;
+color: rgb(247, 8, 215);
+margin-top: 30px;
+padding: 4px 5px;
+box-sizing: border-box;
+}
+
+   .cle p{
+      clear: both;
+
+   }
+
+
+    #jjj{
+
+    
+   color: #df1515;
+text-align: center
+margin-top 30px;
+    }
+
+    
+    #jjj h3{
+
+
+text-align: center;
+display: block;
+background: 0% 20px chocolate;
+margin: top 25px;
+    }
